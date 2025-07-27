@@ -53,7 +53,7 @@ Make sure you have Python installed (version 3.8 or newer is recommended).
 **Ritesh Raut**  
 *Programmer Analyst, Cognizant*
 
-🎊 Celebrate Krishna Janmashtami with joy and devotion! 🐘
+🎊 Celebrate Krishna Janmashtami with joy and devotion! 🎊
 
 ---
 
