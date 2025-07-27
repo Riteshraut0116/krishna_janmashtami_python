@@ -12,7 +12,7 @@ This project uses Python's built-in `turtle` graphics library to create a beauti
 
 After running the script, a window will appear and you will see the drawing of Lord Krishna being created. Once the script is finished, your beautiful artwork is ready! 🎉
 
-![Final Output](krishna_python_file/pythonpoutput.png)
+![Final Output](krishna_python_file/pythonoutput.png)
 
 ---
 
